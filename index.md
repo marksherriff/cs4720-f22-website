@@ -15,7 +15,7 @@ Thanks for your interest in my class!  Maybe I'll see you this fall!
 
 __Instructor:__ Prof. Mark Sherriff   
 __Lectures:__ MWF 2:00-2:50 PM in OLS 018 (as of 3/17/22 at least...)    
-__Textbook:__ None.  I'll provide all the materials.    
+__Textbook:__ None.  I'll provide all the materials via the website.    
 __Prereqs:__ Old Curriculum - CS 2150 / New Curriculum - CS 3140   
 __SIS Description:__ _Mobile computing devices have become ubiquitous in our communities. In this course, we focus on the creation of mobile solutions for various modern platforms, including major mobile operating systems. Topics include mobile device architecture, programming languages, software engineering, user interface design, and app distribution._
 
