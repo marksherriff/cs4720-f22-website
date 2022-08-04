@@ -8,7 +8,8 @@ permalink: /
 
 # CS 4720 - Fall 2022
 ## Mobile Application Development
-_aka Software Engineering_
+
+
 
 [Online Coursepack](https://www.cs4720.org){: .btn  .btn-primary .mr-2 }
 [Gradescope](https://www.gradescope.com/courses/413658){: .btn .btn-primary .mr-2  }
