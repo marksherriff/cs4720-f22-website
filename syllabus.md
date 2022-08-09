@@ -124,15 +124,11 @@ We will utilize a positive-reinforcement grading policy in this course. Your gra
 
 You are not required to own a mobile device of any particular kind for this course.  The bulk of development will take place in the emulators provided by the platforms.  If you wish to check out a device, we have some options available.  
 
-__Windows:__ If you only have access to a Windows machine, you should probably focus on Android and React Native development.  If you wish to develop an iOS app, you can also use cloud services such as http://www.macincloud.com/ at your own cost.
-
-__Mac:__ If you have access to a MacOS machine, you can develop for any of the three platforms.
-
-__Android:__ Samsung tablet devices are available for students to check out for development. Students are welcome to use their own Android devices if they like. Due to device limiations, we strongly suggest students avoid creating apps that lean heavily on phone-only features, such as calling or SMS. Android code should be developed in Android Studio in Windows or macOS.
-
-__iOS:__ iPod Touch devices are availalbe for students to check out for development. Students are welcome to use their own iOS devices if they like. Due to device limiations, we strongly suggest students avoid creating apps that lean heavily on phone-only features, such as calling or SMS. iOS code should be developed using Swift in Xcode. 
-
-__React Native:__ As React Native is intended to be platform independent, you can use any device for these apps.  However, we would recommend Android devices due to ease of deployment.
+* __Windows:__ If you only have access to a Windows machine, you should probably focus on Android and React Native development.  If you wish to develop an iOS app, you can also use cloud services such as http://www.macincloud.com/ at your own cost.
+* __Mac:__ If you have access to a MacOS machine, you can develop for any of the three platforms.
+* __Android:__ Samsung tablet devices are available for students to check out for development. Students are welcome to use their own Android devices if they like. Due to device limiations, we strongly suggest students avoid creating apps that lean heavily on phone-only features, such as calling or SMS. Android code should be developed in Android Studio in Windows or macOS.
+* __iOS:__ iPod Touch devices are availalbe for students to check out for development. Students are welcome to use their own iOS devices if they like. Due to device limiations, we strongly suggest students avoid creating apps that lean heavily on phone-only features, such as calling or SMS. iOS code should be developed using Swift in Xcode. 
+* __React Native:__ As React Native is intended to be platform independent, you can use any device for these apps.  However, we would recommend Android devices due to ease of deployment.
 
 ### Attendance
 {: .no_toc }
