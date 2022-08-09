@@ -99,17 +99,54 @@ We will not be using email for:
 _PLEASE_ make sure to put "CS 4720" in the subject line somewhere so I can keep track of your request!  And please be patient with me in responding.  I receive A LOT of email and it's easy to get behind.  If there is a time-critical nature to your note, please let me know that as well.
 
 ## Assessment and Grading
-_(Still being considered)_
+We will utilize a positive-reinforcement grading policy in this course. Your grade in this course will be based on experience points (XP). Every student begins the course with 0 XP.  As you complete assessments and quizzes, you will earn XP.  Some assessments will have a way to retake or resubmit to earn some of the XP that was not earned on the first attempt.  Please see individual assessments for more information regarding how this mechanic works.
+
+| Assessment	| Who	| Max XP |
+|:--------------|:----|:-----|
+|Practice App 1 (Android, iOS, or React Native) |	Individual |	150 |
+|Practice App 2 (Android, iOS, or React Native) |	Individual |	150 |
+|Final App Project (Student Choice Platform) |	Individual or Pair | 250 |
+|Quiz 1 - Platforms |	Individual | 150 |
+|Quiz 2 - Data and Service |	Individual | 150 |
+|Quiz 3 - User Experience  |	Individual | 150 |
+| __Total Course XP__ | | 1000 |
+
+### Assessment Notes
+{: .no_toc }
+
+* There are 3 total quizzes, which will be taken in-person during lecture. Students can earn back up to 150 XP from missed quiz questions on the final exam.
+* There are 3 total mobile apps that students will build during the semester.  The first two will be the same app, but built using two different platforms (Android + Kotlin, iOS + Swift, React Native + Javascript).  The final app project will be a larger project of the student's choice on the platform of their choice.  However, there will be a set of technical requirements that the student must fulfill.  More information can be found on the Project page. 
 
 ## Class Management
 
+### Devices and Platforms
+{: .no_toc }
+
+You are not required to own a mobile device of any particular kind for this course.  The bulk of development will take place in the emulators provided by the platforms.  If you wish to check out a device, we have some options available.  
+
+__Windows:__ If you only have access to a Windows machine, you should probably focus on Android and React Native development.  If you wish to develop an iOS app, you can also use cloud services such as http://www.macincloud.com/ at your own cost.
+
+__Mac:__ If you have access to a MacOS machine, you can develop for any of the three platforms.
+
+__Android:__ Samsung tablet devices are available for students to check out for development. Students are welcome to use their own Android devices if they like. Due to device limiations, we strongly suggest students avoid creating apps that lean heavily on phone-only features, such as calling or SMS. Android code should be developed in Android Studio in Windows or macOS.
+
+__iOS:__ iPod Touch devices are availalbe for students to check out for development. Students are welcome to use their own iOS devices if they like. Due to device limiations, we strongly suggest students avoid creating apps that lean heavily on phone-only features, such as calling or SMS. iOS code should be developed using Swift in Xcode. 
+
+__React Native:__ As React Native is intended to be platform independent, you can use any device for these apps.  However, we would recommend Android devices due to ease of deployment.
+
 ### Attendance
 {: .no_toc }
-_(Still being considered)_
+
+* Attendance in lecture is vital to learning the material and making a good grade in this class.
+* That said, you are adults and can make your own decisions regarding coming or not coming to class.  I will not take attendance.
+* It is not necessary to inform me of missing a class __unless__ you are missing one of the noted quiz days.
+* If you are going to miss a quiz, you must inform me more than 24 hours in advance to discuss your reason and options for making up the quiz (if possible).  In case of illness or emergency, please inform me when you are able to do so within reason.
 
 ### Late Policy
 {: .no_toc }
-_(Still being considered)_
+
+* Apps may be submitted up to 24 hours late, but will incur a 10% penalty.
+* Quizzes may not be submitted late.  
 
 ### This Syllabus
 {: .no_toc }
