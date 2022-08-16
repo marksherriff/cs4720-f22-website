@@ -24,7 +24,7 @@ Mondays, Wednesdays, and Fridays @ 2:00 PM-2:50 PM in OLS 018
 ## Staff Information
 __Instructor:__ Prof. Mark Sherriff   
 Office: Rice 400   
-Office Hours: TBD  
+Office Hours: Tuesdays, 11:00 AM-12:30 PM and Wednesdays, 9:00 AM-10:30 AM  
 Email: [sherriff@virginia.edu](mailto:sherriff@virginia.edu)    
 Website: [http://marksherriff.com](http://marksherriff.com)    
 
@@ -152,13 +152,14 @@ This syllabus is to be considered a reference document that can and will be adju
 {: .no_toc }
 In this course, there will be a focus on working well together and learning about the development process. A large portion of that process involves interpersonal skills and conflict management. Students and staff are all expected to treat each other with respect.  This includes, but certainly is not limited to:
 
-* Misuse of class platforms (Discord, Piazza, YouTube comments, etc.)
-* Disrespectful language or actions to course staff or other students
+* Proper use of class platforms (Discord, Piazza, YouTube comments, etc.)
+* Respectful behavior in class (including extraneous internet browsing, social media, phone usage, etc.)
+* Respectful language or actions to course staff or other students
 * Promptness for all deadlines and class meetings
 * Quality work
-* Not working well with your partners
-* Collaborating with other teams
-* Not following University COVID regulations
+* Working well with your partners
+* Following the honor code and other collaboration policies
+* Following any University health and safety regulations
 
 Students can and will be penalized for unprofessional behavior.
 

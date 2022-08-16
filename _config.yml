@@ -33,7 +33,7 @@ remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
 
-# logo: "/assets/images/cs4720-logo-200.png"
+logo: "/assets/images/cs4720-logo-200.png"
 
 # Aux links for the upper right navigation
 aux_links:
