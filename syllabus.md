@@ -24,7 +24,7 @@ Mondays, Wednesdays, and Fridays @ 2:00 PM-2:50 PM in OLS 018
 ## Staff Information
 __Instructor:__ Prof. Mark Sherriff   
 Office: Rice 400   
-Office Hours: TBD  
+Office Hours: Tuesdays, 11:00 AM-12:30 PM and Wednesdays, 9:00 AM-10:30 AM  
 Email: [sherriff@virginia.edu](mailto:sherriff@virginia.edu)    
 Website: [http://marksherriff.com](http://marksherriff.com)    
 
@@ -167,13 +167,14 @@ This syllabus is to be considered a reference document that can and will be adju
 {: .no_toc }
 In this course, there will be a focus on working well together and learning about the development process. A large portion of that process involves interpersonal skills and conflict management. Students and staff are all expected to treat each other with respect.  This includes, but certainly is not limited to:
 
-* Misuse of class platforms (Discord, Piazza, YouTube comments, etc.)
-* Disrespectful language or actions to course staff or other students
+* Proper use of class platforms (Discord, Piazza, YouTube comments, etc.)
+* Respectful behavior in class (including extraneous internet browsing, social media, phone usage, etc.)
+* Respectful language or actions to course staff or other students
 * Promptness for all deadlines and class meetings
 * Quality work
-* Not working well with your partners
-* Collaborating with other teams
-* Not following University COVID regulations
+* Working well with your partners
+* Following the honor code and other collaboration policies
+* Following any University health and safety regulations
 
 Students can and will be penalized for unprofessional behavior.
 
@@ -226,25 +227,58 @@ If there is the possibility of inclement weather that could affect class, it is 
 
 ### SDAC and Other Special Circumstances
 {: .no_toc }
-The University of Virginia strives to provide accessibility to all students. If you require an accommodation to fully access this course, please contact the Student Disability Access Center (SDAC) at 434-243-5180 or [sdac@virginia.edu](mailto:sdac@virginia.edu). If you are unsure if you require an accommodation, or to learn more about their services, you may contact the SDAC at the number above or by visiting their website at [http://studenthealth.virginia.edu/student-disability-access-center/faculty-staff](http://studenthealth.virginia.edu/student-disability-access-center/faculty-staff).
+It is my goal to create a learning experience that is as accessible as possible. If you anticipate any issues related to the format, materials, or requirements of this course, please make an appointment to with your instructor outside of class so we can explore potential options. Students with disabilities may also wish to work with the Student Disability Access Center (SDAC) to discuss a range of options to removing barriers in this course, including official accommodations. We are fortunate to have an SDAC advisor, Courtney MacMasters, physically located in Engineering. You may email her at [cmacmasters@virginia.edu](mailto:cmacmasters@virginia.edu) to schedule an appointment. For general questions please visit the SDAC website: [sdac.studenthealth.virginia.edu](http://sdac.studenthealth.virginia.edu). 
 
-If you have been identified as an SDAC student, please let the SDAC know you are taking this class.  We happily and discretely provide the recommended accommodations for those students identified by the SDAC. Please contact us one week before an exam so we can make accommodations.
+If you have already been approved for accommodations through SDAC, please send your instructor your accommodation letter as soon as possible. We happily and discretely provide the recommended accommodations for those students identified by the SDAC. For quizzes and other individual assessments, please remind us one week before an exam so we can make accommodations.  For team related assessments, we cannot grant significant accommodations for an entire team due to just one person. However, we are more than happy to discuss with you the best way to integrate with your team with your accommodations in consideration. Please make an appointment with your instructor outside of office hours to have this discussion.
 
 If you have other special circumstances (athletics, other university-related activities, etc.), please contact the instructor as soon as you know these may affect you in class.
 
 ### Religious Accommodations
 {: .no_toc }
-It is the University's long-standing policy and practice to reasonably accommodate students so that they do not experience an adverse academic consequence when sincerely held religious beliefs or observances conflict with academic requirements. Students who wish to request academic accommodation for a religious observance should submit their request in writing directly to me by email as far in advance as possible. Students and instructors who have questions or concerns about academic accommodations for religious observance or religious beliefs may contact the University’s Office for Equal Opportunity and Civil Rights (EOCR) at [UVAEOCR@virginia.edu](UVAEOCR@virginia.edu) or 434-924-3200. 
+It is the University's long-standing policy and practice to reasonably accommodate students so that they do not experience an adverse academic consequence when sincerely held religious beliefs or observances conflict with academic requirements.
 
-Accommodations do not relieve you of the responsibility for completion of any part of the coursework missed as the result of a religious observance.
+Students who wish to request academic accommodation for a religious observance should submit their request to their instructor by email as far in advance as possible. Students who have questions or concerns about academic accommodations for religious observance or religious beliefs may contact the University’s Office for Equal Opportunity and Civil Rights (EOCR) at [UVAEOCR@virginia.edu](mailto:UVAEOCR@virginia.edu) or 434-924-3200.
+
+Accommodations do not relieve you of the responsibility for completion of any part of the coursework - including the team project - missed as the result of a religious observance.
+
+### Support for Career Development
+{: .no_toc }
+Engaging in your career development is an important part of your student experience. For example, presenting at a research conference, attending an interview for a job or internship, or participating in an extern/shadowing experience are not only necessary steps on your path but are also invaluable lessons in and of themselves. We wish to encourage and support you in activities related to your career development. To that end, please notify your instructor by email as far in advance as possible to arrange for appropriate accommodations.
+
+### Student Support Team
+{: .no_toc }
+You have many resources available to you when you experience academic or personal stresses. In addition to your professor, the School of Engineering and Applied Science has staff members located in Thornton Hall who you can contact to help manage academic or personal challenges. Please do not wait until the end of the semester to ask for help! 
+
+__NOTE:__ These resources are available for BACS majors as well!  You are still a part of our department!
+
+### Learning
+{: .no_toc }
+* [Lisa Lampe](https://engineering.virginia.edu/current-students/current-undergraduate-students/student-support/academic-coaching), Director of Undergraduate Education
+* [Blake Calhoun](https://engineering.virginia.edu/current-students/current-undergraduate-students/student-support/academic-coaching), Director of Undergraduate Success 
+* [Courtney MacMasters](mailto:cmacmasters@virginia.edu), Accessibility Specialist
+* [Free tutoring](https://engineering.virginia.edu/current-students/current-undergraduate-students/student-support/tutoring) is available for most classes
+
+### Health and Wellbeing
+{: .no_toc }
+* [Assistant Dean of Students](https://engineering.virginia.edu/about/offices/office-graduate-programs/student-support-services#accordion716460), Student Safety and Support  
+* Elizabeth Ramirez-Weaver, CAPS counselor
+* Katie Fowler, CAPS counselor
+
+You may schedule time with the CAPS counselors through [Student Health](https://www.studenthealth.virginia.edu/getting-started-caps). When scheduling, be sure to specify that you are an Engineering student or College student. You are also urged to use [TimelyCare](https://www.studenthealth.virginia.edu/timelycare) for either scheduled or on-demand 24/7 mental health care. 
+
+### Community and Identity
+{: .no_toc }
+The [Center for Diversity in Engineering](https://engineering.virginia.edu/about/diversity-and-engagement/center-diversity-engineering) (CDE) is a student space dedicated to advocating for underrepresented groups in STEM. It exists to connect students with the academic, financial, health, and community resources they need to thrive both at UVA and in the world.  The CDE includes an open study area, event space, and staff members on site. Through this space, we affirm and empower equitable participation toward intercultural fluency and provide the resources necessary for students to be successful during their academic journey and future careers.
+
 
 ### Statement on Violence
 {: .no_toc }
-The University of Virginia is dedicated to providing a safe and equitable learning environment for all students. To that end, it is vital that you know two values that I and the University hold as critically important:
- 
-1. Power-based personal violence will not be tolerated. 
-2. Everyone has a responsibility to do their part to maintain a safe community on Grounds.
- 
-If you or someone you know has been affected by power-based personal violence, more information can be found on the UVA Sexual Violence website that describes reporting options and resources available - [www.virginia.edu/sexualviolence](http://www.virginia.edu/sexualviolence). 
- 
-As your professor and as a person, know that I care about you and your well-being and stand ready to provide support and resources as I can. As a faculty member, I am a responsible employee, which means that I am required by University policy and federal law to report what you tell me to the University's Title IX Coordinator. The Title IX Coordinator's job is to ensure that the reporting student receives the resources and support that they need, while also reviewing the information presented to determine whether further action is necessary to ensure survivor safety and the safety of the University community. If you would rather keep this information confidential, there are Confidential Employees you can talk to on Grounds (See [http://www.virginia.edu/justreportit/confidential_resources.pdf](http://www.virginia.edu/justreportit/confidential_resources.pdf)). The worst possible situation would be for you or your friend to remain silent when there are so many here willing and able to help.
+The University of Virginia is dedicated to providing a safe and equitable learning environment for all students. If you or someone you know has been affected by power-based personal violence, more information can be found on the [UVA Sexual Violence website](http://www.virginia.edu/sexualviolence) that describes reporting options and resources available.  
+
+The same resources and options for individuals who experience sexual misconduct are available for discrimination, harassment, and retaliation.  [UVA prohibits discrimination and harassment](https://uvapolicy.virginia.edu/policy/HRM-009) based on age, color, disability, family medical or genetic information, gender identity or expression, marital status, military status, national or ethnic origin, political affiliation, pregnancy (including childbirth and related conditions), race, religion, sex, sexual orientation, veteran status. [UVA policy](https://uvapolicy.virginia.edu/policy/HRM-010) also prohibits retaliation for reporting such behavior. 
+
+If you witness or are aware of someone who has experienced prohibited conduct, you are encouraged to submit a report to [Just Report It](https://justreportit.virginia.edu/) (justreportit.virginia.edu) or [contact EOCR](mailto:UVAEOCR@virginia.edu), the office of Equal Opportunity and Civil Rights.
+
+If you would prefer to disclose such conduct to a confidential resource where what you share is not reported to the University, you can turn to [Counseling & Psychological Services (“CAPS”)](https://www.studenthealth.virginia.edu/caps) and [Women’s Center Counseling Staff and Confidential Advocates](https://womenscenter.virginia.edu/confidential-advocates) (for students of all genders).  
+
+As your professor and as a person, know that I care about you and your well-being and stand ready to provide support and resources as I can. As a faculty member, I am a responsible employee, which means that I am required by University policy and by federal law to report certain kinds of conduct that you report to me to the University's Title IX Coordinator. The Title IX Coordinator's job is to ensure that the reporting student receives the resources and support that they need, while also determining whether further action is necessary to ensure survivor safety and the safety of the University community. 

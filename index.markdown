@@ -22,6 +22,7 @@ Upon successful completion of this course, students will:
 [Gradescope](https://www.gradescope.com/courses/413658){: .btn .btn-primary .mr-2  }
 [Piazza](https://piazza.com/class/l6fccdmluj73ia){: .btn .btn-primary .mr-2  }
 [Collab](https://collab.its.virginia.edu/portal/site/6ba3015f-489d-4fe1-9c5d-ce4e306fc578){: .btn .btn-primary .mr-2  }
+[GitHub](https://github.com/uva-cs4720-f22){: .btn .btn-primary .mr-2  }
 
 ## Lecture Sessions
 Mondays, Wednesdays, and Fridays @ 2:00 PM-2:50 PM in OLS 018   
@@ -29,7 +30,7 @@ Mondays, Wednesdays, and Fridays @ 2:00 PM-2:50 PM in OLS 018
 ## Staff Information
 __Instructor:__ Prof. Mark Sherriff   
 Office: Rice 400   
-Office Hours: TBD  
+Office Hours: Tuesdays, 11:00 AM-12:30 PM and Wednesdays, 9:00 AM-10:30 AM   
 Email: [sherriff@virginia.edu](mailto:sherriff@virginia.edu)    
 Website: [http://marksherriff.com](http://marksherriff.com)    
 
