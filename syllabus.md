@@ -111,6 +111,21 @@ We will utilize a positive-reinforcement grading policy in this course. Your gra
 |Quiz 3 - User Experience  |	Individual | 150 |
 | __Total Course XP__ | | 1000 |
 
+| Letter Grade | XP Required |
+| ------------ | ----------- |
+| A+           | 1000        |
+| A            | 950         |
+| A-           | 900         |
+| B+           | 875         |
+| B            | 850         |
+| B-           | 825         |
+| C+           | 775         |
+| C            | 750         |
+| C-           | 700         |
+| D+           | 675         |
+| D            | 650         |
+| D-           | 625         |
+
 ### Assessment Notes
 {: .no_toc }
 
