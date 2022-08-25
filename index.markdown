@@ -34,4 +34,5 @@ Office Hours: Tuesdays, 11:00 AM-12:30 PM and Wednesdays, 9:00 AM-10:30 AM
 Email: [sherriff@virginia.edu](mailto:sherriff@virginia.edu)    
 Website: [http://marksherriff.com](http://marksherriff.com)    
 
-__Teaching Assistants:__ TBD  
+__Teaching Assistants:__ Farzana Ahmad and Oishee Hoque    
+Office Hours: TBD     
