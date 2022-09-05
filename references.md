@@ -28,6 +28,8 @@ nav_order: 5
 {: .no_toc}
 
 * [Google Developer Courses](https://developer.android.com/courses)
+* [Using Shared Preferences to store key/value pairs](https://developer.android.com/training/data-storage/shared-preferences?hl=en)
+* 
 
 
 ## iOS / Swift
