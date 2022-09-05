@@ -26,7 +26,7 @@ Once you have created your repo, you should have a url that looks something like
 
 Android Studio has GitHub integration built in, but making a project connect to a repo that's NOT in your personal account is slightly trickier in the UI.  Please do the following steps:
 
-1. Clone your repository on GitHub for the project to your machine to wherever you want to work on the project.  This repo will automatically have a README file (that you should edit!) and a .gitignore (which you should _not_ edit!).
+1. Clone your repository on GitHub for the project to your machine to wherever you want to work on the project.  This repo will automatically have a `README` file (that you should edit!) and a `.gitignore` (which you should _not_ edit!).
 2. Open Android Studio and create a New Project.
 3. Select "Phone and Tablet" on the left and choose "Empty Activity."
 4. For the Application Name, please call it just your computing ID.  (Yes, I know this isn't going to look great, but if we have 90 "UVA Bucket List" named apps on our phones when we grade, it just makes it harder!  You can change this later if you want to.)
@@ -99,7 +99,7 @@ For the report described below, please submit the required information into the 
 
 __Project Report__
 
-Please answer the questions on the _Android UVA Bucket List_ assignment in Gradescope _and_ put this information into your README file in GitHub:
+Please answer the questions on the _Android UVA Bucket List_ assignment in Gradescope _and_ put this information into your `README` file in GitHub:
 
 * Your name and UVA computing ID
 * Any special features about your app we should know about
