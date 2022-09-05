@@ -68,14 +68,14 @@ __Add Item Activity__
 
 __Item Info Activity__
 
-1. The screen should look the same as the Add Item activity, but with the information pre-populated with the information from the item you tapped.
+1. The screen should look the same as the Add Item activity, but with the information pre-populated with the information from the item you tapped AND it should also have the date that the item was completed.
 2. Any changes made here should be reflected back in the original item.
 3. If the due date changes, you should re-sort the the list.
 
 __BucketItem__
 
 1. You will need some sort of data class for holding the bucket list items.  
-2. The item needs to contain: name of the item, due date, whether it has been completed or not (boolean).
+2. The item needs to contain: name of the item, due date, whether it has been completed or not (boolean), and the date that it was completed.
 
 ### Submission and Grading
 
@@ -85,7 +85,7 @@ For the app itself, you do not need to do any manual submission.  We will grade 
 
 For the report described below, please submit the required information into the associated assignment in Gradescope.
 
-20 XP: App can launch properly and a screen with a pre-populated, sorted list appears    
+20 XP: App can launch properly and a screen with a pre-populated, sorted list appears (sorted by soonest due at the top, then all completed items at the very bottom, sorted by date completed)   
 10 XP: Tapping on the floating action button launches the Add New Item activity       
 20 XP: A new item is put into the list in the correct location after saving    
 10 XP: Tapping on the check box registers the item as complete and it moves to the bottom of the list    
@@ -104,6 +104,11 @@ Please answer the questions on the _Android UVA Bucket List_ assignment in Grade
 * Your name and UVA computing ID
 * Any special features about your app we should know about
 * Lessons learned from building this Android app (a paragraph at least)
+
+### Tips
+
+1. Note that a "Bucket List" is _super similar_ to a to-do list.  Consider that when you are looking for tutorials.
+2. If you use code from elsewhere, it MUST be cited.  Also, wholesale using the "solution" from a tutorial you find that's "close enough" in your opinion is not going to earn any XP.
 
 
 
