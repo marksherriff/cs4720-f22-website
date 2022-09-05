@@ -131,7 +131,7 @@ We will utilize a positive-reinforcement grading policy in this course. Your gra
 {: .no_toc }
 
 * There are 3 total quizzes, which will be taken in-person during lecture. Students can earn back up to 150 XP from missed quiz questions on the final exam.
-* There are 3 total mobile apps that students will build during the semester.  The first two will be the same app, but built using two different platforms (Android + Kotlin, iOS + Swift, React Native + Javascript).  The final app project will be a larger project of the student's choice on the platform of their choice.  However, there will be a set of technical requirements that the student must fulfill.  More information can be found on the Project page. 
+* There are 3 total mobile apps that students will build during the semester.  The first two will be the same app (a UVA Bucket List), but built using two different platforms (Android + Kotlin, iOS + Swift, React Native + Javascript).  The final app project will be a larger project of the student's choice on the platform of their choice.  However, there will be a set of technical requirements that the student must fulfill.  More information can be found on the Mobile Apps and Project page. 
 
 ## Class Management
 
