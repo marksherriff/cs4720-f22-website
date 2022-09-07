@@ -57,7 +57,7 @@ __List Activity__
 5. The items in the list should be in order from soonest due date to latest.
 6. Tapping on any item (not on the checkbox) should bring up an Edit Item activity (see that Activity for more info).
 7. Tapping on the checkbox next to an item should flip it's done / not done status.
-8. Tapping on the floating action button should bring up the Add Item activity (see that Activity for more info).  To launch this activity, you should use the `startActivityForResult()` method.  Upon completion of the Add Item activity, you should use `onActivityResult(int requestCode, int resultCode, Intent data)` to parse the result and add the new item to the `ArrayList` in this activity.
+8. Tapping on the floating action button should bring up the Add Item activity (see that Activity for more info).  
 
 __Add Item Activity__
 
