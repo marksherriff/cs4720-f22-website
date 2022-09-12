@@ -29,7 +29,8 @@ nav_order: 5
 
 * [Google Developer Courses](https://developer.android.com/courses)
 * [Using Shared Preferences to store key/value pairs](https://developer.android.com/training/data-storage/shared-preferences?hl=en)
-* 
+* [Recycler View Tutorial](https://www.geeksforgeeks.org/android-recyclerview-in-kotlin/?ref=lbp)
+* [Room Database Tutorial](https://developer.android.com/codelabs/android-room-with-a-view-kotlin#0)
 
 
 ## iOS / Swift
