@@ -35,4 +35,5 @@ Email: [sherriff@virginia.edu](mailto:sherriff@virginia.edu)
 Website: [http://marksherriff.com](http://marksherriff.com)    
 
 __Teaching Assistants:__ Farzana Ahmad and Oishee Hoque    
-Office Hours (Rice 442): Farzana - Tuesdays 2:00 PM-3:30 PM and Wednesdays 3:00 PM-4:30 PM // Oishee - Mondays and Thursdays 12:00 PM-1:30 PM
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4iDCaihqUIAIp6tun7I436XkYLJamKmLMlt9YecBmoMj6fKMzmPUzTl09mJ6CErvAXqKyz96KliJI/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" frameborder="0" style="overflow:hidden;height:1000;width:100%" height="175" width="100%"></iframe>
