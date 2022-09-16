@@ -32,8 +32,13 @@ nav_order: 5
 * [Recycler View Tutorial](https://www.geeksforgeeks.org/android-recyclerview-in-kotlin/?ref=lbp)
 * [Room Database Tutorial](https://developer.android.com/codelabs/android-room-with-a-view-kotlin#0)
 
+## React Native / JavaScript
+
+* [React Fundamentals - START HERE!](https://reactnative.dev/docs/intro-react)
+* [Example RN Open Source Apps](https://github.com/martymfly/react-native-wordle)
+* [React Native Core Components](https://reactnative.dev/docs/components-and-apis)
+* [React Native Architecture Overview](https://reactnative.dev/architecture/overview)
+
+
 
 ## iOS / Swift
-
-
-## React Native / JavaScript
