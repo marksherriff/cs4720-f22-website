@@ -35,7 +35,8 @@ nav_order: 5
 ## React Native / JavaScript
 
 * [React Fundamentals - START HERE!](https://reactnative.dev/docs/intro-react)
-* [Example RN Open Source Apps](https://github.com/martymfly/react-native-wordle)
+* [Example RN Open Source Apps](https://github.com/ReactNativeNews/React-Native-Apps)
+* [RN Wordle](https://github.com/martymfly/react-native-wordle)
 * [React Native Core Components](https://reactnative.dev/docs/components-and-apis)
 * [React Native Architecture Overview](https://reactnative.dev/architecture/overview)
 * [Prof. Graham's React Native Videos](https://reactnatural.com/)
