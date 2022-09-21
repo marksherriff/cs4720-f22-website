@@ -30,7 +30,8 @@ nav_order: 5
 * [Google Developer Courses](https://developer.android.com/courses)
 * [Using Shared Preferences to store key/value pairs](https://developer.android.com/training/data-storage/shared-preferences?hl=en)
 * [Recycler View Tutorial](https://www.geeksforgeeks.org/android-recyclerview-in-kotlin/?ref=lbp)
-* [Room Database Tutorial](https://developer.android.com/codelabs/android-room-with-a-view-kotlin#0)
+* [Room Database Tutorial](https://developer.android.com/codelabs/android-room-with-a-view-kotlin#0) - _Edit: In hindsight, this tutorial goes WAY beyond anything that is needed for the first project... sorry..._
+* [To-Do List Tutorial](https://androidessence.com/how-to-build-a-todo-list-in-kotlin-part-1-new-project) and [associated GitHub repo](https://github.com/AdamMc331/todo-kotlin)
 
 ## React Native / JavaScript
 
@@ -40,6 +41,7 @@ nav_order: 5
 * [React Native Core Components](https://reactnative.dev/docs/components-and-apis)
 * [React Native Architecture Overview](https://reactnative.dev/architecture/overview)
 * [Prof. Graham's React Native Videos](https://reactnatural.com/)
+* [Navigating Between Screens](https://reactnative.dev/docs/navigation)
 
 
 
