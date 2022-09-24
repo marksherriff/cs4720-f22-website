@@ -36,9 +36,9 @@ plugins:
 logo: "/assets/images/cs4720-logo-200.png"
 
 # Aux links for the upper right navigation
-aux_links:
-  "CS 4720 Coursepack":
-    - "//www.cs4720.org"
+#aux_links:
+#  "CS 4720 Coursepack":
+#    - "//www.cs4720.org"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
