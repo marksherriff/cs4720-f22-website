@@ -42,6 +42,7 @@ nav_order: 5
 * [React Native Architecture Overview](https://reactnative.dev/architecture/overview)
 * [Prof. Graham's React Native Videos](https://reactnatural.com/)
 * [Navigating Between Screens](https://reactnative.dev/docs/navigation)
+* [Expo Documentation and API](https://docs.expo.dev/versions/latest/react-native/button/)
 
 
 
