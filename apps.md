@@ -85,17 +85,17 @@ For the app itself, you do not need to do any manual submission.  We will grade 
 
 For the report described below, please submit the required information into the associated assignment in Gradescope.
 
-20 XP: App can launch properly and a screen with a pre-populated, sorted list appears (sorted by soonest due at the top, then all completed items at the very bottom, sorted by date completed)   
-10 XP: Tapping on the floating action button launches the Add New Item activity       
-20 XP: A new item is put into the list in the correct location after saving    
-10 XP: Tapping on the check box registers the item as complete and it moves to the bottom of the list    
-10 XP: Tapping on the name of an item opens the Edit Item activity    
-10 XP: The Edit Item activity is pre-populated with all appropriate data   
-20 XP: Changes made in the Edit Item activity are properly reflected back in the list   
-10 XP: The back arrows in the upper left corner work properly for both Add New Item and Edit Item   
-10 XP: App does not crash on rotate (fully resetting the entire app on rotate: -5 XP)   
-20 XP: Design / Style / Appearance / Usability   
-10 XP: Documentation / Report 
+* 20 XP: App can launch properly and a screen with a pre-populated, sorted list appears (sorted by soonest due at the top, then all completed items at the very bottom, sorted by date completed)   
+* 10 XP: Tapping on the floating action button launches the Add New Item activity       
+* 20 XP: A new item is put into the list in the correct location after saving    
+* 10 XP: Tapping on the check box registers the item as complete and it moves to the bottom of the list    
+* 10 XP: Tapping on the name of an item opens the Edit Item activity    
+* 10 XP: The Edit Item activity is pre-populated with all appropriate data   
+* 20 XP: Changes made in the Edit Item activity are properly reflected back in the list   
+* 10 XP: The back arrows in the upper left corner work properly for both Add New Item and Edit Item   
+* 10 XP: App does not crash on rotate (fully resetting the entire app on rotate: -5 XP)   
+* 20 XP: Design / Style / Appearance / Usability   
+* 10 XP: Documentation / Report 
 
 __Project Report__
 
@@ -110,11 +110,42 @@ Please answer the questions on the _Android UVA Bucket List_ assignment in Grade
 1. Note that a "Bucket List" is _super similar_ to a to-do list.  Consider that when you are looking for tutorials.
 2. If you use code from elsewhere, it MUST be cited.  Also, wholesale using the "solution" from a tutorial you find that's "close enough" in your opinion is not going to earn any XP.
 
+## UVA Bucket List (React Native)
 
+### Submission and Grading
+
+__Submission__
+
+For the app itself, you do not need to do any manual submission.  We will grade the latest version in your GitHub repo.  
+
+For the report described below, please submit the required information into the associated assignment in Gradescope.
+
+* 20 XP: App can launch properly and a screen with a pre-populated, sorted list appears (sorted by soonest due at the top, then all completed items at the very bottom, sorted by date completed)   
+* 10 XP: Tapping on the floating action button launches the Add New Item activity       
+* 20 XP: A new item is put into the list in the correct location after saving    
+* 10 XP: Tapping on the check box registers the item as complete and it moves to the bottom of the list    
+* 10 XP: Tapping on the name of an item opens the Edit Item activity    
+* 10 XP: The Edit Item activity is pre-populated with all appropriate data   
+* 20 XP: Changes made in the Edit Item activity are properly reflected back in the list   
+* 10 XP: The back arrows in the upper left corner work properly for both Add New Item and Edit Item   
+* 10 XP: App does not crash on rotate (fully resetting the entire app on rotate: -5 XP)   
+* 20 XP: Design / Style / Appearance / Usability   
+* 10 XP: Documentation / Report 
+
+__Project Report__
+
+Please answer the questions on the _Android UVA Bucket List_ assignment in Gradescope _and_ put this information into your `README` file in GitHub:
+
+* Your name and UVA computing ID
+* Any special features about your app we should know about
+* Lessons learned from building this Android app (a paragraph at least)
+
+### Tips
+
+1. Note that a "Bucket List" is _super similar_ to a to-do list.  Consider that when you are looking for tutorials.
+2. If you use code from elsewhere, it MUST be cited.  Also, wholesale using the "solution" from a tutorial you find that's "close enough" in your opinion is not going to earn any XP.
 
 ## UVA Bucket List (iOS)
-
-## UVA Bucket List (React Native)
 
 
 
