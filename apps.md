@@ -16,7 +16,6 @@ nav_order: 4
 ## UVA Bucket List (Android)
 
 ### Getting Started: GitHub and Android Studio
-{: .no_toc }
 
 First, head to GitHub to create your repo in our classroom GitHub organization by going here: [https://classroom.github.com/a/Hdx06N37](https://classroom.github.com/a/Hdx06N37).  
 
@@ -40,9 +39,9 @@ Android Studio has GitHub integration built in, but making a project connect to 
 11. Your project will not be in GitHub!  You can continue to use Android Studio for committing/pushing your code or you can use the git tool of your choice.
 12. REMEMBER: your final submission will be whatever is in GitHub at the time the project is due!
 
-For your Android Mini App, you are going to build a simple UVa Bucket List app.  Users will be able to open this app and add items to their bucket list of things that they want to do before graduation.  Each item will have a name, description, latitude, longitude, and a way to record whether it has been completed or not.  Since we are early in the semester and have not yet covered data storage, the app should pre-populate with just a few example items at start up and work as intended while in use, but it does not have to remember the state of the list from run to run.
-
 ### Requirements and Specifications
+
+For your Android Mini App, you are going to build a simple UVA Bucket List app.  Users will be able to open this app and add items to their bucket list of things that they want to do before graduation.  Each item will have a name, description, a due date, and a way to record whether it has been completed or not.  The app should pre-populate with just a few example items at start up and work as intended while in use, but it does not have to remember the state of the list from run to run.  (In other words, you are not required to implement permanent storage with a database, cloud service, or other file writing.)
 
 Your app must meet the following requirements.  Beyond these requirements, you can customize your app as you see fit.
 
@@ -53,7 +52,7 @@ __List Activity__
 1. When the app starts up, the list screen should be the first one displayed.
 2. I suggest using a `RecyclerView` as seen [in this Android course](https://developer.android.com/courses/pathways/android-basics-kotlin-unit-2-pathway-3).
 3. Each bucket list item must list: the name of the item, the due date, and a checkbox (or something similar) for a user to click to check off the item as being done.
-4. There must be a button somewhere on the screen (usuall a floating circular button in the lower right) to go to the add item activity.
+4. There must be a button somewhere on the screen (usually a floating circular button in the lower right) to go to the add item activity.
 5. The items in the list should be in order from soonest due date to latest.
 6. Tapping on any item (not on the checkbox) should bring up an Edit Item activity (see that Activity for more info).
 7. Tapping on the checkbox next to an item should flip it's done / not done status.
@@ -106,11 +105,87 @@ Please answer the questions on the _Android UVA Bucket List_ assignment in Grade
 * Lessons learned from building this Android app (a paragraph at least)
 
 ### Tips
+{: .no_toc }
 
 1. Note that a "Bucket List" is _super similar_ to a to-do list.  Consider that when you are looking for tutorials.
 2. If you use code from elsewhere, it MUST be cited.  Also, wholesale using the "solution" from a tutorial you find that's "close enough" in your opinion is not going to earn any XP.
 
 ## UVA Bucket List (React Native)
+
+## UVA Bucket List (React Native)
+
+### Getting Started: GitHub and Development Environment
+
+First, head to GitHub to create your repo in our classroom GitHub organization by going here: [https://classroom.github.com/a/9cJRPiZX](https://classroom.github.com/a/9cJRPiZX).  
+
+Please name your project your UVA computing ID!
+
+Once you have created your repo, you should have a url that looks something like this: https://github.com/uva-cs4720-f22/reactnative-mss2x.git
+
+It seems that most everyone is using VS Code at this point as their editor of choice.  I would suggest not using Android Studio at least because I've seen students open just the Android directory (where the gradle project is) and not be able to work with the JS.  I would also suggest doing most of your terminal work in an actual terminal and not the embedded one inside VS Code, but it's up to you.  Regardless of what code editor you decide to use, I suggest the following steps for getting set up with your GitHub repo.  I had some initial problems getting the project to connect to the proper repo because 1) GitHub Classroom generates repo names with a hyphen in them, and b) React Native projects can't have a hypen in their name.  :shrug:
+
+1. Accept the GitHub Classroom assignment as explained above.
+2. Navigate to the folder on your computer where you want to create the project folder.
+3. Create your project with the command `npx react-native init reactnative_XXXXXXX`, replacing `XXXXXXX` with your own ID.
+4. Change directory into the project directory and connect your project to the GitHub repo with the following commands (editing as necessary):
+
+```
+git init
+git add *
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:uva-cs4720-f22/reactnative-XXXXXXX.git
+git push -u origin main
+```
+
+Everything should be connected properly now.  Remember: if you clone the repo to somewhere new, you'll probably need to re-install all of the modules you use with `npm`.
+
+If you wish to use `expo` to create your app from scratch, that's fine.  Replace the appropriate project creation command above, but the GitHub connection should be the same.
+
+### Requirements and Specifications
+
+For your React Native Mini App, you are going to build a simple UVA Bucket List app.  Users will be able to open this app and add items to their bucket list of things that they want to do before graduation.  Each item will have a name, description, a due date, and a way to record whether it has been completed or not.  The app should pre-populate with just a few example items at start up and work as intended while in use, but it does not have to remember the state of the list from run to run.  (In other words, you are not required to implement permanent storage with a database, cloud service, or other file writing.)
+
+Your app must meet the following requirements.  Beyond these requirements, you can customize your app as you see fit.
+
+You are allowed to build a plain React Native app, build the app using Expo, or a React Native app that imports certain Expo libraries.
+
+The app must have these three screens - a list screen, a create new item screen, and an item information screen.  More detailed information about each screen and other needed files is found below.
+
+__App.js__
+
+1. Remember that `App.js` is the first file that is executed, and you should probably have a `NavigationContainer` here, as seen in [https://github.com/uva-cs4720-f22/MyDailySchedule/blob/main/App.js](https://github.com/uva-cs4720-f22/MyDailySchedule/blob/main/App.js).
+2. I suggest creating a different JS file for each screen, placing them in an apprpriately named folder.
+
+__List Screen__
+
+1. When the app starts up, the list screen should be the first one displayed. 
+2. I suggest using a `ScrollView` as seen in the `AwesomeProject` example app.
+3. Each bucket list item must list: the name of the item, the due date, and a checkbox (or something similar) for a user to click to check off the item as being done.
+4. There must be a button somewhere on the screen to go to the add item screen.  You can do this however you see fit.
+5. The items in the list should be in order from soonest due date to latest.
+6. Tapping on any item (not on the checkbox) should bring up an Edit Item screen (see that screen for more info).
+7. Tapping on the checkbox next to an item should flip it's done / not done status.
+8. Tapping on the floating action button should bring up the Add Item screen (see that screen for more info).  
+
+__Add Item Screen__
+
+1. The screen should have a back arrow in the upper left corner, which cancels the add.  You should get this automatically using the `NavigationContainer.`
+2. The screen should have fields for each of the parts of a bucket list item, along with a date picker for the due date.
+3. There should be a save button at the bottom of the screen.
+4. The screen should send the info from the fields back as extra data fields in the return intent.
+
+__Item Info Screen__
+
+1. The screen should look the same as the Add Item screen, but with the information pre-populated with the information from the item you tapped AND it should also have the date that the item was completed.
+2. This could literally be the same `.js` file as the add item screen if you choose to implement it that way.
+2. Any changes made here should be reflected back in the original item.
+3. If the due date changes, you should re-sort the the list.
+
+__Bucket Item__
+
+1. I suggest creating a `.js` file that represents the bucket list item, but it is not required.  
+2. Remember that JavaScript has (of course) JSON readily available.  It is fully possible to implement the list with nested JSON objects.
 
 ### Submission and Grading
 
@@ -121,12 +196,12 @@ For the app itself, you do not need to do any manual submission.  We will grade 
 For the report described below, please submit the required information into the associated assignment in Gradescope.
 
 * 20 XP: App can launch properly and a screen with a pre-populated, sorted list appears (sorted by soonest due at the top, then all completed items at the very bottom, sorted by date completed)   
-* 10 XP: Tapping on the floating action button launches the Add New Item activity       
-* 20 XP: A new item is put into the list in the correct location after saving    
+* 10 XP: Tapping on the appropriate button launches the Add New Item screen       
+* 20 XP: A new item is put into the list in the correct location after saving from the add screen   
 * 10 XP: Tapping on the check box registers the item as complete and it moves to the bottom of the list    
-* 10 XP: Tapping on the name of an item opens the Edit Item activity    
-* 10 XP: The Edit Item activity is pre-populated with all appropriate data   
-* 20 XP: Changes made in the Edit Item activity are properly reflected back in the list   
+* 10 XP: Tapping on the name of an item opens the Edit Item screen    
+* 10 XP: The Edit Item screen is pre-populated with all appropriate data   
+* 20 XP: Changes made in the Edit Item screen are properly reflected back in the list   
 * 10 XP: The back arrows in the upper left corner work properly for both Add New Item and Edit Item   
 * 10 XP: App does not crash on rotate (fully resetting the entire app on rotate: -5 XP)   
 * 20 XP: Design / Style / Appearance / Usability   
@@ -134,21 +209,18 @@ For the report described below, please submit the required information into the 
 
 __Project Report__
 
-Please answer the questions on the _Android UVA Bucket List_ assignment in Gradescope _and_ put this information into your `README` file in GitHub:
+Please answer the questions on the _React Native UVA Bucket List_ assignment in Gradescope _and_ put this information into your `README` file in GitHub:
 
 * Your name and UVA computing ID
 * Any special features about your app we should know about
-* Lessons learned from building this Android app (a paragraph at least)
+* Lessons learned from building this React Native app (a paragraph at least)
 
 ### Tips
+{: .no_toc }
 
 1. Note that a "Bucket List" is _super similar_ to a to-do list.  Consider that when you are looking for tutorials.
 2. If you use code from elsewhere, it MUST be cited.  Also, wholesale using the "solution" from a tutorial you find that's "close enough" in your opinion is not going to earn any XP.
 
 ## UVA Bucket List (iOS)
-
-
-
-
 
 ## Final Project
