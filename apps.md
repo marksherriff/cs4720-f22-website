@@ -112,8 +112,6 @@ Please answer the questions on the _Android UVA Bucket List_ assignment in Grade
 
 ## UVA Bucket List (React Native)
 
-## UVA Bucket List (React Native)
-
 ### Getting Started: GitHub and Development Environment
 
 First, head to GitHub to create your repo in our classroom GitHub organization by going here: [https://classroom.github.com/a/9cJRPiZX](https://classroom.github.com/a/9cJRPiZX).  
