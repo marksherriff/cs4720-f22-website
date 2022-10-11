@@ -104,6 +104,14 @@ Please answer the questions on the _Android UVA Bucket List_ assignment in Grade
 * Any special features about your app we should know about
 * Lessons learned from building this Android app (a paragraph at least)
 
+__Late Policy__
+
+Changes made to the GitHub repo after the due date and time will incur the following penalties:
+* -15 XP up to 1 day late
+* -30 XP up to 2 days late
+* -60 XP up to 3 days late
+* -120 XP up to 4 days late
+
 ### Tips
 {: .no_toc }
 
@@ -213,6 +221,14 @@ Please answer the questions on the _React Native UVA Bucket List_ assignment in 
 * Your name and UVA computing ID
 * Any special features about your app we should know about
 * Lessons learned from building this React Native app (a paragraph at least)
+
+__Late Policy__
+
+Changes made to the GitHub repo after the due date and time will incur the following penalties:
+* -15 XP up to 1 day late
+* -30 XP up to 2 days late
+* -60 XP up to 3 days late
+* -120 XP up to 4 days late
 
 ### Tips
 {: .no_toc }
