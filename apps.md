@@ -118,7 +118,6 @@ Changes made to the GitHub repo after the due date and time will incur the follo
 1. Note that a "Bucket List" is _super similar_ to a to-do list.  Consider that when you are looking for tutorials.
 2. If you use code from elsewhere, it MUST be cited.  Also, wholesale using the "solution" from a tutorial you find that's "close enough" in your opinion is not going to earn any XP.
 
-
 ## UVA Bucket List (React Native)
 
 ### Getting Started: GitHub and Development Environment
