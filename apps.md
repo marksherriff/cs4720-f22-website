@@ -41,7 +41,7 @@ Android Studio has GitHub integration built in, but making a project connect to 
 
 ### Requirements and Specifications
 
-For your Android Mini App, you are going to build a simple UVA Bucket List app.  Users will be able to open this app and add items to their bucket list of things that they want to do before graduation.  Each item will have a name, description, a due date, and a way to record whether it has been completed or not.  The app should pre-populate with just a few example items at start up and work as intended while in use, but it does not have to remember the state of the list from run to run.  (In other words, you are not required to implement permanent storage with a database, cloud service, or other file writing.)
+For your Android Mini App, you are going to build a simple UVA Bucket List app.  Users will be able to open this app and add items to their bucket list of things that they want to do before graduation.  Each item will have a name, a due date, and a way to record whether it has been completed or not.  The app should pre-populate with just a few example items at start up and work as intended while in use, but it does not have to remember the state of the list from run to run.  (In other words, you are not required to implement permanent storage with a database, cloud service, or other file writing.)
 
 Your app must meet the following requirements.  Beyond these requirements, you can customize your app as you see fit.
 
@@ -104,6 +104,14 @@ Please answer the questions on the _Android UVA Bucket List_ assignment in Grade
 * Any special features about your app we should know about
 * Lessons learned from building this Android app (a paragraph at least)
 
+__Late Policy__
+
+Changes made to the GitHub repo after the due date and time will incur the following penalties:
+* -15 XP up to 1 day late
+* -30 XP up to 2 days late
+* -60 XP up to 3 days late
+* -120 XP up to 4 days late
+
 ### Tips
 {: .no_toc }
 
@@ -142,7 +150,7 @@ If you wish to use `expo` to create your app from scratch, that's fine.  Replace
 
 ### Requirements and Specifications
 
-For your React Native Mini App, you are going to build a simple UVA Bucket List app.  Users will be able to open this app and add items to their bucket list of things that they want to do before graduation.  Each item will have a name, description, a due date, and a way to record whether it has been completed or not.  The app should pre-populate with just a few example items at start up and work as intended while in use, but it does not have to remember the state of the list from run to run.  (In other words, you are not required to implement permanent storage with a database, cloud service, or other file writing.)
+For your React Native Mini App, you are going to build a simple UVA Bucket List app.  Users will be able to open this app and add items to their bucket list of things that they want to do before graduation.  Each item will have a name, a due date, and a way to record whether it has been completed or not.  The app should pre-populate with just a few example items at start up and work as intended while in use, but it does not have to remember the state of the list from run to run.  (In other words, you are not required to implement permanent storage with a database, cloud service, or other file writing.)
 
 Your app must meet the following requirements.  Beyond these requirements, you can customize your app as you see fit.
 
@@ -212,6 +220,14 @@ Please answer the questions on the _React Native UVA Bucket List_ assignment in 
 * Your name and UVA computing ID
 * Any special features about your app we should know about
 * Lessons learned from building this React Native app (a paragraph at least)
+
+__Late Policy__
+
+Changes made to the GitHub repo after the due date and time will incur the following penalties:
+* -15 XP up to 1 day late
+* -30 XP up to 2 days late
+* -60 XP up to 3 days late
+* -120 XP up to 4 days late
 
 ### Tips
 {: .no_toc }
