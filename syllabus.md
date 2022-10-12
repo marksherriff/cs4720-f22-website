@@ -150,7 +150,7 @@ You are not required to own a mobile device of any particular kind for this cour
 {: .no_toc }
 
 * Attendance in lecture is vital to learning the material and making a good grade in this class.
-* That said, you are adults and can make your own decisions regarding coming or not coming to class.  I will not take attendance.
+* Attendance in class will not be explicitly graded.
 * It is not necessary to inform me of missing a class __unless__ you are missing one of the noted quiz days.
 * If you are going to miss a quiz, you must inform me more than 24 hours in advance to discuss your reason and options for making up the quiz (if possible).  In case of illness or emergency, please inform me when you are able to do so within reason.
 
