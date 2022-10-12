@@ -41,7 +41,7 @@ Android Studio has GitHub integration built in, but making a project connect to 
 
 ### Requirements and Specifications
 
-For your Android Mini App, you are going to build a simple UVA Bucket List app.  Users will be able to open this app and add items to their bucket list of things that they want to do before graduation.  Each item will have a name, description, a due date, and a way to record whether it has been completed or not.  The app should pre-populate with just a few example items at start up and work as intended while in use, but it does not have to remember the state of the list from run to run.  (In other words, you are not required to implement permanent storage with a database, cloud service, or other file writing.)
+For your Android Mini App, you are going to build a simple UVA Bucket List app.  Users will be able to open this app and add items to their bucket list of things that they want to do before graduation.  Each item will have a name, a due date, and a way to record whether it has been completed or not.  The app should pre-populate with just a few example items at start up and work as intended while in use, but it does not have to remember the state of the list from run to run.  (In other words, you are not required to implement permanent storage with a database, cloud service, or other file writing.)
 
 Your app must meet the following requirements.  Beyond these requirements, you can customize your app as you see fit.
 
@@ -150,7 +150,7 @@ If you wish to use `expo` to create your app from scratch, that's fine.  Replace
 
 ### Requirements and Specifications
 
-For your React Native Mini App, you are going to build a simple UVA Bucket List app.  Users will be able to open this app and add items to their bucket list of things that they want to do before graduation.  Each item will have a name, description, a due date, and a way to record whether it has been completed or not.  The app should pre-populate with just a few example items at start up and work as intended while in use, but it does not have to remember the state of the list from run to run.  (In other words, you are not required to implement permanent storage with a database, cloud service, or other file writing.)
+For your React Native Mini App, you are going to build a simple UVA Bucket List app.  Users will be able to open this app and add items to their bucket list of things that they want to do before graduation.  Each item will have a name, a due date, and a way to record whether it has been completed or not.  The app should pre-populate with just a few example items at start up and work as intended while in use, but it does not have to remember the state of the list from run to run.  (In other words, you are not required to implement permanent storage with a database, cloud service, or other file writing.)
 
 Your app must meet the following requirements.  Beyond these requirements, you can customize your app as you see fit.
 
