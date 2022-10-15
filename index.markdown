@@ -18,7 +18,6 @@ Upon successful completion of this course, students will:
 * Understand the privacy, ethical, usability, and accessibility issues specific to mobile;
 * Have a familiarity with at least one mobile platform and programming language.
 
-[Online Coursepack](https://www.cs4720.org){: .btn  .btn-primary .mr-2 }
 [Gradescope](https://www.gradescope.com/courses/413658){: .btn .btn-primary .mr-2  }
 [Piazza](https://piazza.com/class/l6fccdmluj73ia){: .btn .btn-primary .mr-2  }
 [Collab](https://collab.its.virginia.edu/portal/site/6ba3015f-489d-4fe1-9c5d-ce4e306fc578){: .btn .btn-primary .mr-2  }
