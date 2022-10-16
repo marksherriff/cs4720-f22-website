@@ -275,7 +275,7 @@ You will (most likely) have some set of the following files in your project:
 * `BucketListTableViewController.swfit` - The controller for the list screen.
 * `BucketListTableViewCell.swift` - Effectively the adapter for this app if you think of the Android version.
 
-#### BucketListTableViewController, BucketListTableViewCell, and BucketItem
+__BucketListTableViewController, BucketListTableViewCell, and BucketItem__
 
 A very large portion of your overall code base will go here. There are a LOT of tutorials out there on how to do this.  PLEASE read through several to get a feel for all of the different functions you have to override, etc.  Here is a sampling:
 
@@ -296,7 +296,7 @@ The requirements are basically the same as the other versions:
 4. Tapping on the + in the upper right takes you to the add new screen.
 
 
-#### Add Item and Edit Item
+__Add Item and Edit Item__
 
 1. You should have Cancel and Save buttons along the top in a `Navigation Controller`.
 2. Make sure that the numeric fields are numeric entry and that the date is a date-only spinner.
@@ -310,7 +310,7 @@ Moving between scenes and passing data requires the use of segues.  Examples:
 * [Coding Explorer](http://www.codingexplorer.com/segue-swift-view-controllers/)
 
 
-#### Storyboards
+__Storyboards__
 
 Layout management can be interesting in Swift and Xcode.  Again, here are some resources:
 
