@@ -291,7 +291,7 @@ Also please check the lecture notes for example code on how to do a list like th
 The requirements are basically the same as the other versions:
 
 1. The list should be sorted first by whether the item still needs to be done or not (completed items move to the bottom), then by date (with more recent dates at the top).  (This is the same as the others.)
-2. I found that including an element to allow for swiping right to left should show a button to mark the item done and to edit the item actualy is easier to do in iOS than trying to have an actual checkbox or tapping on the item.  There are examples in the tutorials.
+2. I found that including an element to allow for swiping right to left should show a button to mark the item done and to edit the item actualy is easier to do in iOS than trying to have an actual checkbox or tapping on the item.  Here is an example project I made that has the slide element: [https://github.com/marksherriff/NoteTaker-iOS](https://github.com/marksherriff/NoteTaker-iOS)
 3. The button should swap the done / not done state, and also change the background color of the cell to show its state (this is in lieu of having an actual checkbox).
 4. Tapping on the + in the upper right takes you to the add new screen.
 
