@@ -316,6 +316,7 @@ Layout management can be interesting in Swift and Xcode.  Again, here are some r
 
 * [Apple's Tutorial](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/AutolayoutPG/index.html#//apple_ref/doc/uid/TP40010853-CH7-SW1)
 * [raywenderlich.com](https://www.raywenderlich.com/113388/storyboards-tutorial-in-ios-9-part-1)
+
 ### Submission and Grading
 
 __Submission__
