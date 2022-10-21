@@ -361,3 +361,109 @@ Changes made to the GitHub repo after the due date and time will incur the follo
 
 
 ## Final Project
+
+### Getting Started
+
+The final project for this course can be done either solo or with a partner.  Make that decision first before going any further!
+
+First, accept the GitHub Classroom assignment here:
+
+[https://classroom.github.com/a/WXRg28GD](https://classroom.github.com/a/WXRg28GD)
+
+If you are working with a partner, the first partner should accept the assignment and the second partner should join the first partner's team in GitHub Classroom.
+
+Then, submit your project proposal to the form here: [Project Proposal Form - Coming Soon](#)
+
+This is just so I have an idea of who is working with whom and what projects and platforms you are using.
+
+### Project Description
+
+Now is the time to let your creativity shine!  Using what you have learned during the first two projects, create a mobile app of your own purpose and design!  You may choose to do Android, React Native (running on Android or iOS), or iOS.  
+
+The domain (i.e. what the app will do) is totally up to you.  I like for students to be more invested in what the project actually does / means for them whenever I can.  So, here's your opportunity to build the app of your dreams!... within reason, of course... you only have a few weeks.
+
+And you can't do a Bucket List app or anything that's basically just a list with an info page for each item.  You HAVE to branch out and do something substantively different.  Not that you can't have features in this space, but there has to be enough to establish that it is a wholly different project from the mini app assignments.
+
+Need ideas?  Come talk to me during office hours!  We can definitely think of something interesting!
+
+### Features and Rubric
+
+For the final project, there are a set of required features and points that must be completed by all projects.  After that, you may choose any combination of optional features up to the max.
+
+Notes:
+
+* No extra credit given past 250 pts.
+* Required Features = 100 pts / Optional Features = 150 pts.
+* You cannot do the same optional feature twice for more points.
+* Students declare in their docs what they want considered for the optional features.
+* We will not grade the "best" set of optional features (i.e. people can't "shotgun" for more points).
+* If your feature selection point total is between 150 and 160 points, and removing any features will drop you below 150 points, we will scale your points accordingly during grading (i.e. 160/160 => 150 pts, 155/160 => 146 pts, etc.).
+* If your feature selection point total is over 160, you must select features that will not be graded.
+
+__Required Features__
+
+30 pts - At least 3 "screens"/"major features"   
+- We expect your app to be of significant enough complexity that they are not "one screen" apps.  "Trivial" screens will not be counted toward this (i.e. splash screen, etc.).
+
+15 pts - App can be interrupted (e.g. phone call) and works "correctly" given the domain   
+- We expect your app to handle interruption as a full, professional release would.
+
+30 pts - Design and Presentation   
+- We expect your app to be well-designed and polished.  This includes everything from following interface guidelines to good layout to good fonts/colors.  
+
+15 pts - Documentation   
+
+* Platform Justification - What are the benefits to the platform you chose?
+* Major Features/Screens - Include short descriptions of each (at least 3 of these)
+* Optional Features - Include specific directions on how to test/demo each feature and declare the exact set that adds up to ~60 pts
+* Testing Methodologies - What did you do to test the app?
+* Usage - Include any special info we need to run the app (username/passwords, etc.)
+* Lessons Learned - What did you learn about mobile development through this process?
+
+The format can be found here: [Coming Soon!](#)
+
+__Optional Features__
+
+NOTE: Any feature you implement that is, in the opinion of the staff, added solely for the purpose of earning points and do not make sense in the context of the app will not receive full points, if any.
+
+30 pts - GPS / Location-awareness (includes using Google or Apple Maps)   
+- Your app uses the location of the user in some meaningful way in the app.  A plain Google Map with just your location and no modification will not earn full credit. 
+
+30 pts - Camera   
+- Your app uses the camera to take a picture and use it directly in the app.  The image is saved somehow, either locally or remotely. 
+
+15 pts - Device Shake   
+- Your app responds in an appropriate way to a device shake.  "Made up" usages that don't make sense will not earn many points. 
+
+30 pts - Accelerometer   
+- Your app responds in an appropriate way to tilt movements. 
+
+30 pts - Microphone / Audio management   
+- Your app uses the microphone to record audio and/or has advanced audio playback capability.  Simply playing sounds when a button is pressed does not count for this feature. The feature must make sense in the context of the app (i.e. a random music player bolted onto something is not sufficient). 
+
+30 pts - Consume a pre-built web service   
+- Your app consumes some readily-available data source, such as weather or stock prices. This feature must make sense in the context of the app (i.e. randomly loading the weather in an app that doesn't need is not sufficient). 
+
+30 pts - Data storage using Core Data (iOS) or SQLite (Android)   
+- Your app stores data locally in a relational-type database model. 
+
+30 pts - Data storage using Firebase (or other cloud service)
+- Your app stores and retrieves data from a cloud-based data service.
+
+15 pts - Data storage using file read/write or data serialization read/write   
+- Your app stores data by either taking data structures (Array or ArrayList) and serializing them for direct writing to disk or you have your own data format you write to disk. 
+
+15 pts - Data storage using key/value pair storage (SharedPreferences or UserDefaults)   
+- Your app stores data in the provided key/value storage system of your platform. 
+
+15 pts - Open shared activity / features (i.e. Create an email to send, share with a text message, etc.)   
+- Your app interacts with another activity or feature of the device by passing data in a reasonable way. 
+
+Complete at least 150 pts for full credit.  Points do not have to add up exactly to 150, but no more than 150 points can be earned.  
+
+__Optional Feature Clarifications__
+
+Sometimes, students will come up with unique situations that will require a decision by course staff.  We will document those here for everyone.
+
+* Things cannot "double count" in two categories.  
+
