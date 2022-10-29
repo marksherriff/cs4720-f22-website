@@ -372,9 +372,9 @@ First, accept the GitHub Classroom assignment here:
 
 If you are working with a partner, the first partner should accept the assignment and the second partner should join the first partner's team in GitHub Classroom.
 
-Then, submit your project proposal to the form here: [Project Proposal Form - Coming Soon](#)
+Then, every project group (SOLO OR TEAM!) should submit your project proposal to the form here: [Project Proposal Form](https://docs.google.com/forms/d/e/1FAIpQLSenDo513ZlR0x08IVTCKbMowmETGgr83Y3zlvHY0NZHfNHsJg/viewform?usp=sf_link)
 
-This is just so I have an idea of who is working with whom and what projects and platforms you are using.
+This is just so I have an idea of who is working with whom (or not) and what projects and platforms you are using.
 
 ### Project Description
 
@@ -395,7 +395,7 @@ Notes:
 * No extra credit given past 250 pts.
 * Required Features = 100 pts / Optional Features = 150 pts.
 * You cannot do the same optional feature twice for more points.
-* Students declare in their docs what they want considered for the optional features.
+* Students declare in their final documentation what they want considered for the optional features.
 * We will not grade the "best" set of optional features (i.e. people can't "shotgun" for more points).
 * If your feature selection point total is between 150 and 160 points, and removing any features will drop you below 150 points, we will scale your points accordingly during grading (i.e. 160/160 => 150 pts, 155/160 => 146 pts, etc.).
 * If your feature selection point total is over 160, you must select features that will not be graded.
@@ -415,16 +415,16 @@ __Required Features__
 
 * Platform Justification - What are the benefits to the platform you chose?
 * Major Features/Screens - Include short descriptions of each (at least 3 of these)
-* Optional Features - Include specific directions on how to test/demo each feature and declare the exact set that adds up to ~60 pts
-* Testing Methodologies - What did you do to test the app?
+* Optional Features - Include specific directions on how to test/demo each feature and declare the exact set that adds up to ~150 pts
 * Usage - Include any special info we need to run the app (username/passwords, etc.)
 * Lessons Learned - What did you learn about mobile development through this process?
+* Wireframe - Include a wireframe of your app from during initial design.  This can be a digital wireframe (please include an exported image, not a link to a tool) or _good quality_ pictures of a hand-drawn wireframe.
 
-The format can be found here: [Coming Soon!](#)
+The format can be found here: [Final Project Documentation](https://docs.google.com/document/d/16_mEyjhrjjkveu23KUov6jaQAk4YdBLWl3KNlWqPp5o/edit?usp=sharing)
 
 __Optional Features__
 
-NOTE: Any feature you implement that is, in the opinion of the staff, added solely for the purpose of earning points and do not make sense in the context of the app will not receive full points, if any.
+NOTE: Any feature you implement that is, in the opinion of the staff, added solely for the purpose of earning points and does not make sense in the context of the app will not receive full points, if any.
 
 30 pts - GPS / Location-awareness (includes using Google or Apple Maps)   
 - Your app uses the location of the user in some meaningful way in the app.  A plain Google Map with just your location and no modification will not earn full credit. 
@@ -467,3 +467,8 @@ Sometimes, students will come up with unique situations that will require a deci
 
 * Things cannot "double count" in two categories.  
 
+__Late Policy__
+
+Changes made to the GitHub repo after the due date and time will incur the following penalties:
+* -25 XP up to 1 day late
+* No changes accepted beyond 24 hours (due to it being the end of the semester)
