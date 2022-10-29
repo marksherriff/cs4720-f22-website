@@ -408,7 +408,7 @@ __Required Features__
 15 pts - App can be interrupted (e.g. phone call) and works "correctly" given the domain   
 - We expect your app to handle interruption as a full, professional release would.
 
-30 pts - Design and Presentation   
+40 pts - Design and Presentation   
 - We expect your app to be well-designed and polished.  This includes everything from following interface guidelines to good layout to good fonts/colors.  
 
 15 pts - Documentation   
