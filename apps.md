@@ -393,16 +393,16 @@ For the final project, there are a set of required features and points that must
 Notes:
 
 * No extra credit given past 250 pts.
-* Required Features = 100 pts / Optional Features = 150 pts.
+* Required Features = 130 pts / Optional Features = 120 pts.
 * You cannot do the same optional feature twice for more points.
 * Students declare in their final documentation what they want considered for the optional features.
 * We will not grade the "best" set of optional features (i.e. people can't "shotgun" for more points).
-* If your feature selection point total is between 150 and 160 points, and removing any features will drop you below 150 points, we will scale your points accordingly during grading (i.e. 160/160 => 150 pts, 155/160 => 146 pts, etc.).
-* If your feature selection point total is over 160, you must select features that will not be graded.
+* If your feature selection point total is between 120 and 130 points, and removing any features will drop you below 120 points, we will scale your points accordingly during grading (i.e. 130/130 => 120 pts, 125/130 => 116 pts, etc.).
+* If your feature selection point total is over 130, you must select features that will not be graded.
 
 __Required Features__
 
-30 pts - At least 3 "screens"/"major features"   
+60 pts - At least 3 "screens"/"major features"   
 - We expect your app to be of significant enough complexity that they are not "one screen" apps.  "Trivial" screens will not be counted toward this (i.e. splash screen, etc.).
 
 15 pts - App can be interrupted (e.g. phone call) and works "correctly" given the domain   
