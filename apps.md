@@ -392,26 +392,25 @@ For the final project, there are a set of required features and points that must
 
 Notes:
 
-* No extra credit given past 250 pts.
-* Required Features = 130 pts / Optional Features = 120 pts.
+* No extra credit given past 250 XP.
+* Required Features = 130 XP / Optional Features = 120 XP.
 * You cannot do the same optional feature twice for more points.
 * Students declare in their final documentation what they want considered for the optional features.
 * We will not grade the "best" set of optional features (i.e. people can't "shotgun" for more points).
-* If your feature selection point total is between 120 and 130 points, and removing any features will drop you below 120 points, we will scale your points accordingly during grading (i.e. 130/130 => 120 pts, 125/130 => 116 pts, etc.).
-* If your feature selection point total is over 130, you must select features that will not be graded.
+* If your feature selection point total is over 120, you must select features that will not be graded.
 
 __Required Features__
 
-60 pts - At least 3 "screens"/"major features"   
+60 XP - At least 3 "screens"/"major features"   
 - We expect your app to be of significant enough complexity that they are not "one screen" apps.  "Trivial" screens will not be counted toward this (i.e. splash screen, etc.).
 
-15 pts - App can be interrupted (e.g. phone call) and works "correctly" given the domain   
+15 XP - App can be interrupted (e.g. phone call) and works "correctly" given the domain   
 - We expect your app to handle interruption as a full, professional release would.
 
-40 pts - Design and Presentation   
+40 XP - Design and Presentation   
 - We expect your app to be well-designed and polished.  This includes everything from following interface guidelines to good layout to good fonts/colors.  
 
-15 pts - Documentation   
+15 XP - Documentation   
 
 * Platform Justification - What are the benefits to the platform you chose?
 * Major Features/Screens - Include short descriptions of each (at least 3 of these)
@@ -426,40 +425,40 @@ __Optional Features__
 
 NOTE: Any feature you implement that is, in the opinion of the staff, added solely for the purpose of earning points and does not make sense in the context of the app will not receive full points, if any.
 
-30 pts - GPS / Location-awareness (includes using Google or Apple Maps)   
+30 XP - GPS / Location-awareness (includes using Google or Apple Maps)   
 - Your app uses the location of the user in some meaningful way in the app.  A plain Google Map with just your location and no modification will not earn full credit. 
 
-30 pts - Camera   
+30 XP - Camera   
 - Your app uses the camera to take a picture and use it directly in the app.  The image is saved somehow, either locally or remotely. 
 
-15 pts - Device Shake   
+15 XP - Device Shake   
 - Your app responds in an appropriate way to a device shake.  "Made up" usages that don't make sense will not earn many points. 
 
-30 pts - Accelerometer   
+30 XP - Accelerometer   
 - Your app responds in an appropriate way to tilt movements. 
 
-30 pts - Microphone / Audio management   
+30 XP - Microphone / Audio management   
 - Your app uses the microphone to record audio and/or has advanced audio playback capability.  Simply playing sounds when a button is pressed does not count for this feature. The feature must make sense in the context of the app (i.e. a random music player bolted onto something is not sufficient). 
 
-30 pts - Consume a pre-built web service   
+30 XP - Consume a pre-built web service   
 - Your app consumes some readily-available data source, such as weather or stock prices. This feature must make sense in the context of the app (i.e. randomly loading the weather in an app that doesn't need is not sufficient). 
 
-30 pts - Data storage using Core Data (iOS) or SQLite (Android)   
+30 XP - Data storage using Core Data (iOS) or SQLite (Android)   
 - Your app stores data locally in a relational-type database model. 
 
-30 pts - Data storage using Firebase (or other cloud service)
+30 XP - Data storage using Firebase (or other cloud service)
 - Your app stores and retrieves data from a cloud-based data service.
 
-15 pts - Data storage using file read/write or data serialization read/write   
+15 XP - Data storage using file read/write or data serialization read/write   
 - Your app stores data by either taking data structures (Array or ArrayList) and serializing them for direct writing to disk or you have your own data format you write to disk. 
 
-15 pts - Data storage using key/value pair storage (SharedPreferences or UserDefaults)   
+15 XP - Data storage using key/value pair storage (SharedPreferences or UserDefaults)   
 - Your app stores data in the provided key/value storage system of your platform. 
 
-15 pts - Open shared activity / features (i.e. Create an email to send, share with a text message, etc.)   
+15 XP - Open shared activity / features (i.e. Create an email to send, share with a text message, etc.)   
 - Your app interacts with another activity or feature of the device by passing data in a reasonable way. 
 
-Complete at least 150 pts for full credit.  Points do not have to add up exactly to 150, but no more than 150 points can be earned.  
+Complete at least 120 XP for full credit.  XP do not have to add up exactly to 120, but no more than 120 points can be earned.  
 
 __Optional Feature Clarifications__
 
