@@ -392,8 +392,8 @@ For the final project, there are a set of required features and points that must
 
 Notes:
 
-* No extra credit given past 250 XP.
-* Required Features = 130 XP / Optional Features = 120 XP.
+* No extra credit given past 300 XP.
+* Required Features = 180 XP / Optional Features = 120 XP.
 * You cannot do the same optional feature twice for more points.
 * Students declare in their final documentation what they want considered for the optional features.
 * We will not grade the "best" set of optional features (i.e. people can't "shotgun" for more points).
@@ -401,20 +401,20 @@ Notes:
 
 __Required Features__
 
-60 XP - At least 3 "screens"/"major features"   
+90 XP - At least 3 "screens"/"major features"   
 - We expect your app to be of significant enough complexity that they are not "one screen" apps.  "Trivial" screens will not be counted toward this (i.e. splash screen, etc.).
 
 15 XP - App can be interrupted (e.g. phone call) and works "correctly" given the domain   
 - We expect your app to handle interruption as a full, professional release would.
 
-40 XP - Design and Presentation   
+60 XP - Design and Presentation   
 - We expect your app to be well-designed and polished.  This includes everything from following interface guidelines to good layout to good fonts/colors.  
 
 15 XP - Documentation   
 
 * Platform Justification - What are the benefits to the platform you chose?
 * Major Features/Screens - Include short descriptions of each (at least 3 of these)
-* Optional Features - Include specific directions on how to test/demo each feature and declare the exact set that adds up to ~150 pts
+* Optional Features - Include specific directions on how to test/demo each feature and declare the exact set that adds up to ~120 pts
 * Usage - Include any special info we need to run the app (username/passwords, etc.)
 * Lessons Learned - What did you learn about mobile development through this process?
 * Wireframe - Include a wireframe of your app from during initial design.  This can be a digital wireframe (please include an exported image, not a link to a tool) or _good quality_ pictures of a hand-drawn wireframe.
@@ -468,6 +468,4 @@ Sometimes, students will come up with unique situations that will require a deci
 
 __Late Policy__
 
-Changes made to the GitHub repo after the due date and time will incur the following penalties:
-* -25 XP up to 1 day late
-* No changes accepted beyond 24 hours (due to it being the end of the semester)
+* App will be accepted at any time, but you may need to take an incomplete if it will be later than when I have to submit grades.  Please contact me if you anticipate this will be the case.

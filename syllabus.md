@@ -102,6 +102,18 @@ _PLEASE_ make sure to put "CS 4720" in the subject line somewhere so I can keep 
 ## Assessment and Grading
 We will utilize a positive-reinforcement grading policy in this course. Your grade in this course will be based on experience points (XP). Every student begins the course with 0 XP.  As you complete assessments and quizzes, you will earn XP.  Some assessments will have a way to retake or resubmit to earn some of the XP that was not earned on the first attempt.  Please see individual assessments for more information regarding how this mechanic works.
 
+### New Grading - Post-Thanksgiving
+
+| Assessment	| Who	| Max XP |
+|:--------------|:----|:-----|
+|Practice App 1 (Android, iOS, or React Native) |	Individual |	150 |
+|Practice App 2 (Android, iOS, or React Native) |	Individual |	150 |
+|Final App Project (Student Choice Platform) |	Individual or Pair | 300 |
+|Quiz 1 - Platforms |	Individual | 200 |
+|Quiz 2 - UX & Services |	Individual | 200 |
+| __Total Course XP__ | | 1000 |
+
+### Deprecated Grading - Kept for Reference
 | Assessment	| Who	| Max XP |
 |:--------------|:----|:-----|
 |Practice App 1 (Android, iOS, or React Native) |	Individual |	150 |
