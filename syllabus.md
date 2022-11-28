@@ -114,6 +114,7 @@ We will utilize a positive-reinforcement grading policy in this course. Your gra
 | __Total Course XP__ | | 1000 |
 
 ### Deprecated Grading - Kept for Reference
+
 | Assessment	| Who	| Max XP |
 |:--------------|:----|:-----|
 |Practice App 1 (Android, iOS, or React Native) |	Individual |	150 |
